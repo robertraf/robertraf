@@ -18,7 +18,7 @@
 
 ✔ Programming languages: Javascript and Python <br>
 ✔ Libraries: React, Redux, Chakra UI, Tailwind and Numpy <br>
-✔ Frameworks: Nextjs, Express JS, FLask y FastAPI <br>
+✔ Frameworks: Nextjs, Express JS, Flask and FastAPI <br>
 ✔ SQL databases: MySQL, MS SQL Server and PostgreSQL <br>
 ✔ NoSQL databases: MongoDB and Redis <br>
 ✔ Web fundamentals (HTML and CSS) <br>
