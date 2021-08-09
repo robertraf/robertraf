@@ -14,7 +14,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30px" height="30"/>&nbsp;***Talking about Personal Stuffs...***
+<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30px" height="30"/>&nbsp;***Talking about Personal Stuff...***
 
 ✔ Programming languages: Javascript and Python <br>
 ✔ Libraries: React, Redux, Chakra UI, Tailwind and Numpy <br>
