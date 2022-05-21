@@ -12,7 +12,7 @@
   <a href = "mailto: robertrafyt2007@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<!--img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" /-->
 
 <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30px" height="30"/>&nbsp;***Talking about Personal Stuff...***
 
