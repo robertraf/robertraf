@@ -1,37 +1,26 @@
 <p align="center">
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
-</p>
-<hr>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Roberto Ramírez</h1>
-<h3 align="center">Software Engineer</h3>
-
-<p align="center">
-  <a href="https://twitter.com/robert_raf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40" /></a>
-  <a href="http://linkedin.com/in/roberto-ram%C3%ADrez-b753b9189" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
-  <a href = "mailto: robertrafyt2007@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+  <img src="https://assets.robertraf.com/github/signal-banner.png" alt="Scattered fragments connecting into a waveform, then settling into a quiet line." width="100%" />
 </p>
 
-<!--img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" /-->
+<p align="center"><samp>systems, interfaces & things worth making</samp></p>
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30px" height="30"/>&nbsp;***Talking about Personal Stuff...***
+<br />
 
-✔ Programming languages: Javascript and Python <br>
-✔ Libraries: React, Redux, Chakra UI, Tailwind and Numpy <br>
-✔ Frameworks: Nextjs, Express JS, Flask and FastAPI <br>
-✔ SQL databases: MySQL, MS SQL Server and PostgreSQL <br>
-✔ NoSQL databases: MongoDB and Redis <br>
-✔ Web fundamentals (HTML and CSS) <br>
-✔ RESTful API and GraphQL <br>
-✔ CMS: Strapi and DatoCMS <br>
-✔ CI / CD (Github and Docker) <br>
-✔ Cloud (AWS and Heroku) <br>
+I'm a software engineer from Honduras. I like the moment an idea becomes something you can actually use.
 
-### ⚙️ &nbsp;GitHub Analytics
+I've spent the past few years building fintech systems: commerce, payments, rewards, and lending. That work keeps me attentive to what happens behind an interface. My interest in design keeps bringing me back to the person in front of it.
 
-<p align="center">
-<a href="https://github.com/robertraf">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertraf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertraf&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+Lately, I'm building tools for coding agents and a second brain from my own development history. I'm curious about what we can delegate, what we should understand ourselves, and how to preserve what we learn along the way.
+
+<br />
+
+<details>
+  <summary>A little beyond the code</summary>
+
+Electronic music, philosophy, and independent experiments. I like the structure of a good set, the questions that stay with you after reading, and software with a little personality. Sometimes that becomes a music player. Sometimes a browser game.
+
+</details>
+
+<br />
+
+[LinkedIn](https://www.linkedin.com/in/roberto-ram%C3%ADrez-b753b9189/) · [X](https://twitter.com/robert_raf) · [Email](mailto:robertrafyt2007@gmail.com)
